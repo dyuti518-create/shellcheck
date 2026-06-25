@@ -7,7 +7,7 @@ ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell
 
 ![Screenshot of a terminal showing problematic shell script lines highlighted](doc/terminal.png)
 
-The goals of ShellCheck are
+The goals of ShellCheck ar
 
 * To point out and clarify typical beginner's syntax issues that cause a shell
   to give cryptic error messages.
